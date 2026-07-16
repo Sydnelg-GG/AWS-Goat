@@ -1,3 +1,5 @@
+Reto: Reflected XSS
+
 URL objetivo: https://856k42qfe7.execute-api.us-east-1.amazonaws.com/prod/react#/home
 Campo vulnerable: Barra de búsqueda (search bar)
 
