@@ -1,7 +1,7 @@
 # AWSGoat — Evaluación de Seguridad Ofensiva y Defensiva en AWS
 
-**Curso:** Tópicos Especiales II — Grupo 1S3141
-**Profesor:** Armando Jipsion
+**Curso:** Analisis de Seguridad en Entornos Nube — Grupo 1S3141
+**Profesor:** Jose Moreno
 **Universidad Tecnológica de Panamá** — Facultad de Ingeniería en Sistemas Computacionales, Licenciatura en Ciberseguridad
 **Autores:** Cleidys Guzmán, Mónica Pineda, Victor Pineda
 
