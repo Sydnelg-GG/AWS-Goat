@@ -111,4 +111,4 @@ Durante el ejercicio se expusieron credenciales temporales de AWS pertenecientes
 
 ## Alcance y propósito
 
-Este trabajo tiene fines exclusivamente educativos, realizado dentro del marco del curso Tópicos Especiales II. AWSGoat está diseñado específicamente para este tipo de práctica controlada; ninguna de las técnicas aquí documentadas fue aplicada fuera de este entorno de laboratorio.
+Este trabajo tiene fines exclusivamente educativos, realizado dentro del marco del curso. AWSGoat está diseñado específicamente para este tipo de práctica controlada; ninguna de las técnicas aquí documentadas fue aplicada fuera de este entorno de laboratorio.
